@@ -4,8 +4,11 @@
 # day1
 
 1. [jupyter notebook 강의 실습](1-01JupyterNotebook.ipynb)
-2. [latext](blob/main/test.md)
+2. 이미지 테스트: [test.md](test.md)
 
+
+a link:
+- 이미지 테스트: <a href='test.md'>test.md</a>
 
 
 # day2
